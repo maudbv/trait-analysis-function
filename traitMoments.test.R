@@ -40,6 +40,19 @@
 # and divergence in a Mediterranean rangeland. Journal of Ecology, 100(6), 1422-1433.
 # doi:10.1111/1365-2745.12003
 #
+#  Copyright GPL-2 2012 Maud Bernar-Verdier
+#
+# This program is free software; you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation; either version 2 of the License, or
+# (at your option) any later version.
+
+#  This program is distributed in the hope that it will be useful,
+#  but WITHOUT ANY WARRANTY; without even the implied warranty of
+#  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#  GNU General Public License for more details.
+
+
 ######################################################################################################
 
 null.mom=function(comm,trait,df=traits,nreps=9999) {
