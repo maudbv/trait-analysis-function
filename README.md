@@ -1,7 +1,7 @@
-# trait-analysis-function
+# R functions for analysing trait distributions in ecologcial communities
 
-Two R functions to test trait range and trait moments in an ecological community.
-The functions are almost but not quite generic and stand alone yet. 
+Two R functions to test trait range and trait moments in an ecological community, compared to a species pool.
+The functions are almost but not quite generic, used for previous publications before 2013.
 
 DOI URL:
 https://zenodo.org/badge/latestdoi/19618/maudbv/trait-analysis-function
