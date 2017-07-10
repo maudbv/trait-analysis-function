@@ -1,6 +1,6 @@
 # R functions for analysing trait distributions in ecologcial communities
 
-Two R functions to test trait range and trait moments in an ecological community, compared to a species pool.
+Three R functions to calculate the range, the four moments and Rao's quadratic entropy for trait distributions within ecological communities, tested and standardized against null models.
 The functions are almost but not quite generic, used for previous publications before 2013.
 
 DOI URL:
